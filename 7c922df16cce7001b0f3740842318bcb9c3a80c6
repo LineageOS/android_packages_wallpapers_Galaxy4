@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "dae975fb_9ff5f584",
+        "filename": "res/values-sv/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-08-16T19:26:32Z",
+      "side": 1,
+      "message": "Please change 2010 to 2013 and AOSP to \u0027The CyanogenMod Project\u0027",
+      "revId": "7c922df16cce7001b0f3740842318bcb9c3a80c6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
