@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a740942_757cd720",
+        "filename": "res/values-lt/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-16T07:15:09Z",
+      "side": 1,
+      "message": "Please use new copyright notice and use \u0027The CyanogenMod Project\u0027",
+      "revId": "93f79758c99bea382abd446768fb8802621f90e1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
