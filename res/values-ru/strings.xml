@@ -16,4 +16,5 @@
 -->
 <resources>
   <string name="wallpaper_label">Чёрная дыра</string>
+  <string name="wallpaper_author">Googlе</string>
 </resources>
