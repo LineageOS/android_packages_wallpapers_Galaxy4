@@ -15,6 +15,6 @@
      limitations under the License.
 -->
 <resources>
-  <string name="wallpaper_label">कृष्ण विवर</string>
-  <string name="wallpaper_author">गूगल</string>
+    <string name="wallpaper_label">कृष्ण विवर</string>
+    <string name="wallpaper_author">गूगल</string>
 </resources>

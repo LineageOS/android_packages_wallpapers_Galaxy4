@@ -15,6 +15,6 @@
      limitations under the License.
 -->
 <resources>
-  <string name="wallpaper_label">چاڵی ڕەش</string>
-  <string name="wallpaper_author">گووگڵ</string>
+    <string name="wallpaper_label">چاڵی ڕەش</string>
+    <string name="wallpaper_author">گووگڵ</string>
 </resources>
